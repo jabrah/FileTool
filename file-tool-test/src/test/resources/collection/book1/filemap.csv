@@ -1,0 +1,6 @@
+test1.txt,renamed1.txt
+test2.txt,renamed2.txt
+fake1.txt,fakeRename1.txt
+,blankSource
+blankTarget,
+singleColumn
